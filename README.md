@@ -238,4 +238,4 @@ This repository serves as the official landing page for UltraVNC. The software i
 **Get the most recent version of UltraVNC today!**
 
 ---
-**Last updated:** 2026-10-21 21:07:50 UTC
+**Last updated:** 2026-10-22 00:21:35 UTC
